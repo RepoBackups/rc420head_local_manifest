@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="CandyDevices/device_htc_ville" path="device/htc/ville" remote="github" revision="c5.1" />  <project name="CyanogenMod/android_device_htc_s4-common" path="device/htc/s4-common" remote="github" revision="cm-12.1" />
+  <project name="CandyDevices/device_htc_ville" path="device/htc/ville" remote="github" revision="c5.1" />  
+  <project name="CyanogenMod/android_device_htc_s4-common" path="device/htc/s4-common" remote="github" revision="cm-12.1" />
   <project name="CyanogenMod/android_device_htc_msm8960-common" path="device/htc/msm8960-common" remote="github" revision="cm-12.1" />
-  <project name="CandyDevices/kernel_htc_msm8960" path="kernel/htc/msm8960" remote="github" revision="c5.1" />   <project name="TheMuppets/proprietary_vendor_htc" path="vendor/htc" remote="github" revision="cm-12.1" />
+  <project name="CandyDevices/kernel_htc_msm8960" path="kernel/htc/msm8960" remote="github" revision="c5.1" />   
+  <project name="TheMuppets/proprietary_vendor_htc" path="vendor/htc" remote="github" revision="cm-12.1" />
 </manifest>
